@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 18 Jan 2005 22:52:08 +0100
+Source: bmon
+Binary: bmon
+Architecture: source i386
+Version: 2.0.1-3
+Distribution: unstable
+Urgency: low
+Maintainer: Reto Schuettel <reto@schuettel.ch>
+Changed-By: Reto Schuettel <reto@schuettel.ch>
+Description: 
+ bmon       - portable bandwidth monitor and rate estimator
+Changes: 
+ bmon (2.0.1-3) unstable; urgency=low
+ .
+   * debian/bmon.desktop added
+Checksums-Sha1: 
+ 1c4599e96f56b27b4245f422010c4dd0fae96590 743 bmon_2.0.1-3.dsc
+ 4de67ffeb447c8597685e0223bef9b29ba3b8900 3945 bmon_2.0.1-3.diff.gz
+ 1720b51ffd4f722c657cace6823ebd963c454cfc 48780 bmon_2.0.1-3_i386.deb
+Checksums-Sha256: 
+ 63b571ee0929f2d86adc50deaaf652d02720144aa4546042a0aa4f9000e3c7e5 743 bmon_2.0.1-3.dsc
+ 8590580ce7cdef4ae669112f96ec452fbbd3212c7389e9232633150eca36746b 3945 bmon_2.0.1-3.diff.gz
+ cac2217148cd471541fd48641ee0e92f6b406e5b9c219e144f25a27f297f9f2a 48780 bmon_2.0.1-3_i386.deb
+Files: 
+ 6620234b952fdf8cf2bfe2f1a8107de2 743 net optional bmon_2.0.1-3.dsc
+ fa5c001548f46a7e39ba0618d0a1a424 3945 net optional bmon_2.0.1-3.diff.gz
+ 10f9ad4ba1c8248371581433fb08bdcc 48780 net optional bmon_2.0.1-3_i386.deb
